@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How to pretend a class implements an interface", "How to pretend a class implements an interface.csproj", "{9CCE4F80-B63C-401B-A75E-5DD5E9572C63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CCE4F80-B63C-401B-A75E-5DD5E9572C63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CCE4F80-B63C-401B-A75E-5DD5E9572C63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CCE4F80-B63C-401B-A75E-5DD5E9572C63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CCE4F80-B63C-401B-A75E-5DD5E9572C63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E988331F-536D-4EA5-982B-0706B8C314B4}
+	EndGlobalSection
+EndGlobal
